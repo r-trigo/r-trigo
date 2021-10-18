@@ -1,4 +1,15 @@
-### Hi there 👋
+### 👋 Hi, my name is Rui Trigo
+
+- 🖥️ I'm a Site Reliability Engineer
+- 🏗️ I keep building my self-hosted empire
+- 📚 and growing my non-fiction collection
+- 🌐 check out [rtrigo.tech](https://rtrigo.tech) for more
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=r-trigo&count_private=true&show_icons=true&theme=midnight-purple)
+
+<!--
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=r-trigo&count_private=true&show_icons=true&theme=midnight-purple&layout=compact)
+-->
 
 <!--
 **r-trigo/r-trigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
