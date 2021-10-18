@@ -1,11 +1,18 @@
-### 👋 Hi, my name is Rui Trigo
+### Welcome to my profile
 
-- 🖥️ I'm a Site Reliability Engineer
+## 😃 My name is Rui Trigo and I am a Computer Engineer
+- 🖥️ I'm working as a Site Reliability Engineer
 - 🏗️ I keep building my self-hosted empire
 - 📚 and growing my non-fiction collection
 - 🌐 check out [rtrigo.tech](https://rtrigo.tech) for more
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=r-trigo&count_private=true&show_icons=true&theme=midnight-purple)
+
+## Connect with me:
+[<img align="left" width="32px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://rtrigo.tech)
+[<img align="left" width="32px" src="https://unpkg.com/simple-icons@v5/icons/twitter.svg" />](https://twitter.com/ru1tr1go)
+[<img align="left" width="32px" src="https://unpkg.com/simple-icons@v5/icons/linkedin.svg" />](https://linkedin.com/in/r-trigo)
+<br />
 
 <!--
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=r-trigo&count_private=true&show_icons=true&theme=midnight-purple&layout=compact)
