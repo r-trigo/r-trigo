@@ -4,7 +4,7 @@
 - 🖥️ I'm working as a Site Reliability Engineer
 - 🏗️ I keep building my self-hosted empire
 - 📚 and growing my non-fiction collection
-- 🌐 check out [rtrigo.tech](https://rtrigo.tech) for more
+- 🌐 check out [rtrigo.ninja](https://rtrigo.ninja) for more
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=r-trigo&count_private=true&show_icons=true&theme=midnight-purple)
 
