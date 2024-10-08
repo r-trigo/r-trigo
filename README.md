@@ -9,7 +9,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=r-trigo&count_private=true&show_icons=true&theme=midnight-purple)
 
 ## Connect with me:
-[<img align="left" width="32px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://rtrigo.ninja)
+[<img align="left" width="32px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://r-trigo.github.io)
 [<img align="left" width="32px" src="https://unpkg.com/simple-icons@v5/icons/twitter.svg" />](https://twitter.com/ru1tr1go)
 [<img align="left" width="32px" src="https://unpkg.com/simple-icons@v5/icons/linkedin.svg" />](https://linkedin.com/in/r-trigo)
 <br />
