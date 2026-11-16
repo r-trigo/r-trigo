@@ -1,7 +1,7 @@
 ### Welcome to my profile
 
 ## 😃 My name is Rui Trigo and I am a Computer Engineer
-- 🖥️ I'm working as a Site Reliability Engineer
+- 🖥️ I'm working as a Senior Systems Engineer
 - 🏗️ I keep building my self-hosted empire
 - 📚 and growing my non-fiction collection
 - 🌐 check out [r-trigo.github.io](https://r-trigo.github.io) for more
